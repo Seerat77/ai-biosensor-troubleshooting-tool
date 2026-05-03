@@ -58,3 +58,30 @@ Problem: Low signal in LAMP-linked biosensor assay
 
 ### Suggested next step
 Test phosphate standard after passing through binding buffer to confirm inhibition source.
+
+## How I used AI in this project
+
+To develop this tool, I used AI (ChatGPT) to:
+
+- Generate structured troubleshooting suggestions based on experimental problems
+- Identify possible sources of assay interference
+- Organize control experiments for biosensor validation
+- Refine and document experimental workflows
+
+The AI-assisted approach helps transform unstructured lab problems into clear, actionable steps.
+
+---
+
+## Example AI interaction
+
+### Prompt
+"In a LAMP-based biosensor assay, why would the signal decrease in the presence of nucleotides?"
+
+### AI Response (simplified)
+- Nucleotides may interfere with enzyme activity
+- They may affect phosphate availability
+- They can inhibit downstream enzymatic reactions
+- They may introduce competing reactions
+
+### Outcome
+This helped guide experimental design toward testing nucleotide-only controls and confirming interference sources.
