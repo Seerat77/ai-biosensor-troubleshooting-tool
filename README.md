@@ -41,3 +41,20 @@ This is an early project idea based on real experimental challenges in analytica
 - Add a simple form for users to enter assay components
 - Add AI-generated suggestions for controls
 - Build a small web tool or notebook version
+## Example AI-assisted output
+
+### Input
+Problem: Low signal in LAMP-linked biosensor assay
+
+### AI Suggested Troubleshooting:
+- Check for nucleotide interference (dNTPs)
+- Compare signal in clean buffer vs LAMP master mix
+- Run control experiments:
+  - dNTP-only
+  - Mg2+ only
+  - primers only
+- Consider dilution of reaction matrix
+- Evaluate phosphate availability after amplification
+
+### Suggested next step
+Test phosphate standard after passing through binding buffer to confirm inhibition source.
