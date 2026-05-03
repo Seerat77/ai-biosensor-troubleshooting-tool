@@ -1,0 +1,9 @@
+Case: LAMP assay showing low glucose signal
+
+Observations:
+- High signal in clean phosphate standard
+- Reduced signal in LAMP matrix
+- Suspected nucleotide interference
+
+Conclusion:
+dNTPs likely inhibiting maltose phosphorylase reaction.
